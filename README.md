@@ -4,4 +4,4 @@ Town hall-type debates are increasingly moving online, irrevocably transforming 
 
 ## Citation
 
-Dambanemuya H.K., Romero D, and Horvát E-Á. Emergent Influence Networks in Good-Faith Online Discussions. DOI: https://arxiv.org/abs/2306.13250
+Dambanemuya H.K., Romero D, and Horvát E-Á. Emergent Influence Networks in Good-Faith Online Discussions. In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2024.
